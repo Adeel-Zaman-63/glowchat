@@ -20,4 +20,4 @@ RUN composer install
 EXPOSE 8080
 
 # Start the WebSocket server
-CMD ["php", "server.php"]
+CMD ["php", "websocket-server.php"]

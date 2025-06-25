@@ -1,0 +1,12 @@
+{
+    "name": "adeel/glow-chat",
+    "autoload": {
+        "psr-4": {
+            "Adeel\\GlowChat\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.3",
+        "cboden/ratchet": "^0.4.4"
+    }
+}
